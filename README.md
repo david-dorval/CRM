@@ -17,3 +17,11 @@ How to configuer PipeDrive based on multi-companies, multi-users, multi-business
 - **Service** : a time-based human activity to deliver a prestation to a customer. the service is quantified in term of man.d based on daily price
 >- **warning** : services require to be defined as sum of sub-services w/o going too far in the details.
 - **Solution** : the combination of services and products
+- ** visibility group ** : a group of users with defined visibility of deals - groups works with child and parent group with top-down only visibility 
+- ** deal ** : created by an user - associated with a visibility group 
+- **user** : belong to a visibility group - has right attached to different PD modules -
+- **userclass** : admin or stduser
+
+
+# Misc
+- admin rights can be duplicated 
