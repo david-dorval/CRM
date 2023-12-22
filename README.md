@@ -24,4 +24,10 @@ How to configuer PipeDrive based on multi-companies, multi-users, multi-business
 
 
 # Misc
-- admin rights can be duplicated 
+- admin rights can be duplicated
+
+# Products
+- can be imported from an excel spreadsheet
+- tempate can be obtained by exporting list of products in excel format then edit -> modify -> save -> import file
+- PD has a process to check, modify then validate the import
+- Once done a new product is created 
