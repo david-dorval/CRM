@@ -12,4 +12,12 @@ How to configuer PipeDrive based on multi-companies, multi-users, multi-business
 
 
 # Definition
+
+  - Product : a piece of material ( pipe, screw, motor...) with a name, a reference and a price \
+  - Service : a time-based human activity to deliver a prestation to a customer. the service is quantified in term of man.d based on daily price \
+                - warning : services require to be defined as sum of sub-services w/o going too far in the details. \
+  - Solution : the combination of services and products \
+<br>
+  - 
+     
   
